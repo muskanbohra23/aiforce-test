@@ -1,0 +1,7 @@
+Application Documentation Report
+Repository: Martinfx/Cobol
+Prepared by: COBOL Documentation Generator Agent
+
+Executive Summary
+...
+[Full report content as above]
